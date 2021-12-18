@@ -1,1 +1,3 @@
-# analyzing_data_with_sql
+# Analyzing data with sql
+
+Projects from the codecademy course analyzing data with sql
